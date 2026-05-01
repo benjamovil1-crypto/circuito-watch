@@ -1,1 +1,6322 @@
-{"congregaciones":[],"_note":"Este archivo es generado automáticamente por CircuitoWatch Uploader desde el S24 Ultra. No editar manualmente."}
+{
+  "app": "SuperCircuitoApp",
+  "version": "4.1",
+  "exportado": "2026-05-01T17:40:14.122Z",
+  "data": {
+    "congregaciones": [
+      {
+        "id": 1774759456268,
+        "nombre": "Los Ríos-Emiliano Zapata",
+        "ciudad": "Emiliano Zapata Chis ",
+        "fecha": "2026-03-10",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774825616398,
+            "fecha": "2025-09-09",
+            "semanas": 6,
+            "eb": [
+              "45",
+              "45",
+              "49",
+              "50",
+              "50",
+              "50"
+            ],
+            "rp": [
+              "48",
+              "48",
+              "48",
+              "48",
+              "50",
+              "50"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "5",
+                "informan": "38"
+              },
+              {
+                "cursos": "7",
+                "informan": "42"
+              },
+              {
+                "cursos": "8",
+                "informan": "41"
+              },
+              {
+                "cursos": "7",
+                "informan": "40"
+              },
+              {
+                "cursos": "7",
+                "informan": "40"
+              },
+              {
+                "cursos": "9",
+                "informan": "73"
+              }
+            ],
+            "fin_saldo_ini": "668",
+            "fin": [
+              {
+                "ok": "923",
+                "cg": "2137",
+                "gs": "3000"
+              },
+              {
+                "ok": "748",
+                "cg": "787",
+                "gs": "1630"
+              },
+              {
+                "ok": "1129",
+                "cg": "1152",
+                "gs": "1429"
+              },
+              {
+                "ok": "823",
+                "cg": "724",
+                "gs": "2367"
+              },
+              {
+                "ok": "703",
+                "cg": "3426",
+                "gs": "3818"
+              },
+              {
+                "ok": "477",
+                "cg": "297",
+                "gs": "1047"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "42",
+              "irregulares": "2",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "15",
+              "irregEstudio": "",
+              "sinEstudio": "29",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "8",
+              "precReg": "8",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "1",
+              "reactivados": "",
+              "recienBautizados": "3",
+              "bautizados": "",
+              "noBautizados": ""
+            }
+          },
+          {
+            "id": 1774912044069,
+            "fecha": "2026-03-10",
+            "semanas": 6,
+            "eb": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "rp": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "",
+            "fin": [
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "",
+              "irregulares": "",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "",
+              "irregEstudio": "",
+              "sinEstudio": "",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "",
+              "precReg": "",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "",
+              "noBautizados": ""
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774759477272,
+        "nombre": "La Torre Emiliano Zapata",
+        "ciudad": "Emiliano Zapata Chis ",
+        "fecha": "2026-03-17",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774826270260,
+            "fecha": "2025-09-16",
+            "semanas": 6,
+            "eb": [
+              "54",
+              "53",
+              "52",
+              "51",
+              "53",
+              "56"
+            ],
+            "rp": [
+              "60",
+              "63",
+              "57",
+              "56",
+              "57",
+              "58"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "",
+            "fin": [
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "47",
+              "irregulares": "",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "21",
+              "irregEstudio": "",
+              "sinEstudio": "27",
+              "menosDiez": "",
+              "publNuevos": "2",
+              "precAux": "14",
+              "precReg": "5",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "",
+              "noBautizados": ""
+            }
+          },
+          {
+            "id": 1774912054843,
+            "fecha": "2026-03-17",
+            "semanas": 6,
+            "eb": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "rp": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "",
+            "fin": [
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "",
+              "irregulares": "",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "",
+              "irregEstudio": "",
+              "sinEstudio": "",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "",
+              "precReg": "",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "",
+              "noBautizados": ""
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774759496704,
+        "nombre": "El Platanar",
+        "ciudad": "El Platanar Chis ",
+        "fecha": "2026-03-24",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774825017812,
+            "fecha": "2025-09-30",
+            "semanas": 6,
+            "eb": [
+              "67",
+              "60",
+              "58",
+              "61",
+              "62",
+              "63"
+            ],
+            "rp": [
+              "71",
+              "68",
+              "75",
+              "77",
+              "62",
+              "79"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "18",
+                "informan": "31"
+              },
+              {
+                "cursos": "2",
+                "informan": "25"
+              },
+              {
+                "cursos": "20",
+                "informan": "39"
+              },
+              {
+                "cursos": "24",
+                "informan": "37"
+              },
+              {
+                "cursos": "16",
+                "informan": "37"
+              },
+              {
+                "cursos": "15",
+                "informan": "37"
+              }
+            ],
+            "fin_saldo_ini": "9670",
+            "fin": [
+              {
+                "ok": "788",
+                "cg": "10701",
+                "gs": "5866"
+              },
+              {
+                "ok": "366",
+                "cg": "513",
+                "gs": "366"
+              },
+              {
+                "ok": "1145",
+                "cg": "928",
+                "gs": "1701"
+              },
+              {
+                "ok": "483",
+                "cg": "581",
+                "gs": "483"
+              },
+              {
+                "ok": "491",
+                "cg": "588",
+                "gs": "4311"
+              },
+              {
+                "ok": "758",
+                "cg": "463",
+                "gs": "1949"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "43",
+              "irregulares": "3",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "16",
+              "irregEstudio": "3",
+              "sinEstudio": "27",
+              "menosDiez": "",
+              "publNuevos": "1",
+              "precAux": "6",
+              "precReg": "8",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "2",
+              "reactivados": "",
+              "recienBautizados": "5",
+              "bautizados": "41",
+              "noBautizados": "5"
+            }
+          },
+          {
+            "id": 1774912066612,
+            "fecha": "2026-03-24",
+            "semanas": 6,
+            "eb": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "rp": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "",
+            "fin": [
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "",
+              "irregulares": "",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "",
+              "irregEstudio": "",
+              "sinEstudio": "",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "",
+              "precReg": "",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "",
+              "noBautizados": ""
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774759526444,
+        "nombre": "La Hacienda",
+        "ciudad": "La Hacienda Chis ",
+        "fecha": "2026-04-07",
+        "puntosAgenda": "1) La conduccion del Estudio de la Atalaya \n2) Dirigir cursos bíblicos,  método y actualización \n3) Ser diligentes y confiables en nuestras asiganciones",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774826445203,
+            "fecha": "2025-09-23",
+            "semanas": 6,
+            "eb": [
+              "88",
+              "96",
+              "88",
+              "95",
+              "86",
+              "93"
+            ],
+            "rp": [
+              "125",
+              "118",
+              "111",
+              "107",
+              "111",
+              "107"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "19539",
+            "fin": [
+              {
+                "ok": "2500",
+                "cg": "200",
+                "gs": "6000"
+              },
+              {
+                "ok": "",
+                "cg": "958",
+                "gs": "800"
+              },
+              {
+                "ok": "",
+                "cg": "1543",
+                "gs": "10894"
+              },
+              {
+                "ok": "",
+                "cg": "500",
+                "gs": "3080"
+              },
+              {
+                "ok": "",
+                "cg": "40",
+                "gs": "1001"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "ESPÍRITU: De amabilidad (Gál. 5:22) lo demuestran en como se hablan y se tratan ENCOMIO: Dirigen 39 cursos, los hacen 14 publicadores. Los felicité por promover la unidad, el amor y respeto mutuo mutuo. Los felicité por que se ve que disfrutar de hablar de las promesas de Jehová con los vecinos. También por ser verdaderos ejemplos del vivir cristiano.\nSUGERENCIA: Repasamos introducción sobre reuniones, se harán en el Salór del Reino en La Hacienda (Sfg 4:1, 25-28). Para beneficio de los que no puedar trasladarse se seguirá transmitiendo por zoom de acuerdo a las instrucciones para ello. También se organizará la predicación pública siguiendo la instrucción de Sfc 3:4-9, se hará un programa y se seleccionará a los que califican para participar.",
+            "adicionales": "Agenda de Reunion de Ancianos.\n1) Documentos necesarios para la visita Formularios s‑61:\n1) lista temas para la agenda de ancianos\n2) cuentas de mantenimiento\n3) datos de contacto de todos los publicadores\n4) asignación de territorios (S‑13)\n5) Movimiento mensual de publicaciones (S‑28)\n6) lista de los lugares y horarios de predicación pública, con los nombres de los aprobados.\n2) Reuniones de congregación Sfg\n1) seguir las instrucciones de la organización. Sfg 4:1\n2) grupos solo para idiomas Sfg 16:7\n3) Transmitir en zoom Sfg 4:25",
+            "analisis": {
+              "regulares": "100",
+              "irregulares": "",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "14",
+              "irregEstudio": "1",
+              "sinEstudio": "85",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "14",
+              "precReg": "3",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "1",
+              "bautizados": "",
+              "noBautizados": ""
+            }
+          },
+          {
+            "id": 1774912085024,
+            "fecha": "2026-04-07",
+            "semanas": 6,
+            "eb": [
+              "104",
+              "94",
+              "94",
+              "88",
+              "86",
+              "85"
+            ],
+            "rp": [
+              "121",
+              "122",
+              "121",
+              "120",
+              "109",
+              "102"
+            ],
+            "cmp_eb6": "91",
+            "cmp_rp6": "113",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "",
+            "fin": [
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "15:00",
+            "reu_vm_pres": "Aymer Pérez ",
+            "reu_vm_can1": "88",
+            "reu_vm_can2": "99",
+            "reu_vm_can3": "84",
+            "reu_vm_oracion": "Benjamín Fuentes Cortés ",
+            "asig_vm": [
+              {
+                "parte": "Tesoreos ",
+                "asignado": "Dodani Pérez ",
+                "tiempo": ""
+              },
+              {
+                "parte": "Perlas",
+                "asignado": "Renato Morales",
+                "tiempo": ""
+              },
+              {
+                "parte": "Lectura de la Biblia",
+                "asignado": "David Morales",
+                "tiempo": ""
+              },
+              {
+                "parte": "Asignación #1",
+                "asignado": "Seleni Morales y Ortensia Velázquez ",
+                "tiempo": ""
+              },
+              {
+                "parte": "Asignación #2",
+                "asignado": "Eglotina y Deysi",
+                "tiempo": ""
+              },
+              {
+                "parte": "",
+                "asignado": "",
+                "tiempo": ""
+              }
+            ],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "09:00",
+            "reu_rp_pres": "Guillermo Marroquin",
+            "reu_rp_can": "147",
+            "reu_rp_can2": "118",
+            "reu_rp_oracion": "Benjamín Fuentes Cortés ",
+            "asig_rp": [
+              {
+                "parte": "Cómo cosechar vida eterna",
+                "asignado": "Benjamín Fuentes Cortés ",
+                "tiempo": ""
+              },
+              {
+                "parte": "Atalaya",
+                "asignado": "Diego  Morales",
+                "tiempo": ""
+              }
+            ],
+            "pastoreo": [
+              {
+                "diahora": "Miércoles 10:30 a.m.",
+                "familia": "Fam. Sargento",
+                "acompanante": "Emin Escobar",
+                "motivo": "Animo hermano enfermo"
+              },
+              {
+                "diahora": "Miércoles 11: 30 a.m.",
+                "familia": "Fam. Roblero ",
+                "acompanante": "Guillermo Marroquín ",
+                "motivo": "Fortaleza"
+              },
+              {
+                "diahora": "Sábado 10: 00 a.m.",
+                "familia": "Delsi Morales",
+                "acompanante": "Diego Morales",
+                "motivo": "Oposicion familiar"
+              }
+            ],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "Salón del Reino",
+            "info_precursores": "Miércoles 3: 00 p.m.",
+            "info_ancianos": "Sábado 11: 00 a.m.",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "Sandra Mazariegos",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "Melinda Marroquín ",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "Avida Velázquez ",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "Matilde Lopez",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "Joselin Perez",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "Hilda Morales",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "Local La Hacienda ",
+                "hora": "09:00",
+                "publicador": "Rolando Marroquín ",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "El Pacayal",
+                "hora": "09:00",
+                "publicador": "Renato Morales",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "La Noria",
+                "hora": "21:00",
+                "publicador": "Dodani Pérez ",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "Local La Hacienda",
+                "hora": "09:00",
+                "publicador": "Aymer Perez",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "100",
+              "irregulares": "",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "20",
+              "irregEstudio": "",
+              "sinEstudio": "80",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "38",
+              "precReg": "6",
+              "ancianos": "4",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "1",
+              "desasociados": "",
+              "readmitidos": "1",
+              "reactivados": "",
+              "recienBautizados": "4",
+              "bautizados": "86",
+              "noBautizados": "14"
+            }
+          }
+        ],
+        "oradores": [
+          {
+            "id": 1775596380514,
+            "nombre": "Dodani",
+            "calificacion": "B",
+            "skills": {
+              "Lectura precisa": false,
+              "Pronunciación clara": false,
+              "Fluidez": true,
+              "Uso de las pausas": false,
+              "Énfasis en las ideas principales": false,
+              "Volumen adecuado": false,
+              "Modulación": false,
+              "Entusiasmo": false,
+              "Calidez y sentimiento": false,
+              "Ademanes y expresiones faciales": false,
+              "Contacto visual": false,
+              "Naturalidad": false,
+              "Apariencia personal": true,
+              "Postura": false,
+              "Uso de medios visuales": false,
+              "Introducciones que despierten interés": true,
+              "Introducciones apropiadas para el auditorio": false,
+              "Desarrollo lógico del tema": true,
+              "Uso de argumentos convincentes": false,
+              "Uso de preguntas para razonar": false,
+              "Ilustraciones que enseñen": false,
+              "Ilustraciones tomadas de situaciones conocidas": false,
+              "Uso eficaz de la Biblia": false,
+              "Introducción apropiada de los textos": false,
+              "Lectura con el énfasis debido": false,
+              "Aplicación correcta de los textos": false,
+              "Explicación de los textos bíblicos": true,
+              "Enseñanza con ejemplos bíblicos": false,
+              "Uso de un bosquejo": false,
+              "Buena Argumentación": false,
+              "Exhortación de corazón": false,
+              "Puntos principales que se destacan": false,
+              "Conclusión que mueva a la acción": false,
+              "Claridad": true,
+              "Instrucción para el auditorio": false,
+              "Repetición para enfatizar": false,
+              "Análisis del tema": false,
+              "Vocabulario digno y variado": false,
+              "Uso de notas": false
+            }
+          },
+          {
+            "id": 1775597350490,
+            "nombre": "Aymer",
+            "calificacion": "B",
+            "skills": {
+              "Lectura precisa": false,
+              "Pronunciación clara": true,
+              "Fluidez": false,
+              "Uso de las pausas": true,
+              "Énfasis en las ideas principales": false,
+              "Volumen adecuado": true,
+              "Modulación": false,
+              "Entusiasmo": false,
+              "Calidez y sentimiento": false,
+              "Ademanes y expresiones faciales": true,
+              "Contacto visual": false,
+              "Naturalidad": false,
+              "Apariencia personal": true,
+              "Postura": false,
+              "Uso de medios visuales": false,
+              "Introducciones que despierten interés": false,
+              "Introducciones apropiadas para el auditorio": false,
+              "Desarrollo lógico del tema": false,
+              "Uso de argumentos convincentes": false,
+              "Uso de preguntas para razonar": false,
+              "Ilustraciones que enseñen": false,
+              "Ilustraciones tomadas de situaciones conocidas": false,
+              "Uso eficaz de la Biblia": false,
+              "Introducción apropiada de los textos": false,
+              "Lectura con el énfasis debido": false,
+              "Aplicación correcta de los textos": false,
+              "Explicación de los textos bíblicos": false,
+              "Enseñanza con ejemplos bíblicos": false,
+              "Uso de un bosquejo": false,
+              "Buena Argumentación": false,
+              "Exhortación de corazón": false,
+              "Puntos principales que se destacan": false,
+              "Conclusión que mueva a la acción": false,
+              "Claridad": true,
+              "Instrucción para el auditorio": false,
+              "Repetición para enfatizar": false,
+              "Análisis del tema": false,
+              "Vocabulario digno y variado": false,
+              "Uso de notas": false
+            }
+          }
+        ]
+      },
+      {
+        "id": 1774759589143,
+        "nombre": "La Esperanza",
+        "ciudad": "San Antonio Chis",
+        "fecha": "2026-04-14",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774829582726,
+            "fecha": "2025-12-02",
+            "semanas": 6,
+            "eb": [
+              "57",
+              "53",
+              "55",
+              "56",
+              "51",
+              "57"
+            ],
+            "rp": [
+              "67",
+              "61",
+              "61",
+              "57",
+              "50",
+              "59"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "50",
+            "fin": [
+              {
+                "ok": "600",
+                "cg": "4800",
+                "gs": "5200"
+              },
+              {
+                "ok": "270",
+                "cg": "200",
+                "gs": "730"
+              },
+              {
+                "ok": "390",
+                "cg": "400",
+                "gs": "740"
+              },
+              {
+                "ok": "420",
+                "cg": "10200",
+                "gs": "4618"
+              },
+              {
+                "ok": "80",
+                "cg": "550",
+                "gs": "6682"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "48",
+              "irregulares": "3",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "13",
+              "irregEstudio": "",
+              "sinEstudio": "38",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "11",
+              "precReg": "5",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "1",
+              "censurados": "",
+              "expulsados": "1",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "3",
+              "bautizados": "36",
+              "noBautizados": "15"
+            }
+          },
+          {
+            "id": 1774912124448,
+            "fecha": "2026-04-21",
+            "semanas": 6,
+            "eb": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "rp": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "",
+            "fin": [
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "",
+              "irregulares": "",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "",
+              "irregEstudio": "",
+              "sinEstudio": "",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "",
+              "precReg": "",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "",
+              "noBautizados": ""
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774759614581,
+        "nombre": "Mirador",
+        "ciudad": "Monte Sinaí ",
+        "fecha": "2026-04-21",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774829903120,
+            "fecha": "2025-12-09",
+            "semanas": 6,
+            "eb": [
+              "88",
+              "89",
+              "88",
+              "86",
+              "92",
+              "88"
+            ],
+            "rp": [
+              "107",
+              "108",
+              "106",
+              "105",
+              "113",
+              "104"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "2",
+                "informan": "42"
+              },
+              {
+                "cursos": "7",
+                "informan": "42"
+              },
+              {
+                "cursos": "2",
+                "informan": "44"
+              },
+              {
+                "cursos": "4",
+                "informan": "48"
+              },
+              {
+                "cursos": "6",
+                "informan": "55"
+              },
+              {
+                "cursos": "11",
+                "informan": "56"
+              }
+            ],
+            "fin_saldo_ini": "0",
+            "fin": [
+              {
+                "ok": "300",
+                "cg": "",
+                "gs": "300"
+              },
+              {
+                "ok": "206",
+                "cg": "",
+                "gs": "206"
+              },
+              {
+                "ok": "197",
+                "cg": "",
+                "gs": "197"
+              },
+              {
+                "ok": "1564",
+                "cg": "",
+                "gs": "1564"
+              },
+              {
+                "ok": "374",
+                "cg": "",
+                "gs": "374"
+              },
+              {
+                "ok": "214",
+                "cg": "",
+                "gs": "214"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "51",
+              "irregulares": "15",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "7",
+              "irregEstudio": "",
+              "sinEstudio": "49",
+              "menosDiez": "",
+              "publNuevos": "2",
+              "precAux": "",
+              "precReg": "2",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "1",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "2",
+              "recienBautizados": "3",
+              "bautizados": "33",
+              "noBautizados": "23"
+            }
+          },
+          {
+            "id": 1776829891685,
+            "fecha": "2026-04-22",
+            "semanas": 6,
+            "eb": [
+              "72",
+              "75",
+              "88",
+              "85",
+              "72",
+              "92"
+            ],
+            "rp": [
+              "112",
+              "112",
+              "107",
+              "119",
+              "103",
+              "122"
+            ],
+            "cmp_eb6": "89",
+            "cmp_rp6": "107",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "",
+            "fin": [
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "671",
+                "gs": "413"
+              },
+              {
+                "ok": "",
+                "cg": "1011",
+                "gs": "633"
+              },
+              {
+                "ok": "",
+                "cg": "1006",
+                "gs": "576"
+              },
+              {
+                "ok": "",
+                "cg": "703",
+                "gs": "1255"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "15:00",
+            "reu_vm_pres": "David V",
+            "reu_vm_can1": "86",
+            "reu_vm_can2": "97",
+            "reu_vm_can3": "84",
+            "reu_vm_oracion": "Benjamín Fuentes ",
+            "asig_vm": [
+              {
+                "parte": "Tesoros",
+                "asignado": "Absalón Escobar ",
+                "tiempo": ""
+              },
+              {
+                "parte": "Perlas escondidas ",
+                "asignado": "Atanacio",
+                "tiempo": ""
+              },
+              {
+                "parte": "Lectura",
+                "asignado": "Elder",
+                "tiempo": ""
+              },
+              {
+                "parte": "#4",
+                "asignado": "Adalina y teresa",
+                "tiempo": ""
+              },
+              {
+                "parte": "#5",
+                "asignado": "Luci y roxana",
+                "tiempo": ""
+              },
+              {
+                "parte": "#6",
+                "asignado": "Sara y dalia",
+                "tiempo": ""
+              },
+              {
+                "parte": "#7",
+                "asignado": "Albimar",
+                "tiempo": ""
+              },
+              {
+                "parte": "RVMC #8",
+                "asignado": "Absalón Escobar ",
+                "tiempo": ""
+              }
+            ],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "10:00",
+            "reu_rp_pres": "Absalón Escobar ",
+            "reu_rp_can": "147",
+            "reu_rp_can2": "118",
+            "reu_rp_oracion": "Benjamín Fuentes Cortés ",
+            "asig_rp": [
+              {
+                "parte": "Estudio de La Atalaya ",
+                "asignado": "Absalón Escobar ",
+                "tiempo": ""
+              }
+            ],
+            "pastoreo": [
+              {
+                "diahora": "Jueves a las 11 a.m. ",
+                "familia": "Uber Pérez ",
+                "acompanante": "David V. ",
+                "motivo": "Animo / predicación "
+              },
+              {
+                "diahora": "Viernes a las 11 a.m.",
+                "familia": "Siriaco Velázquez ",
+                "acompanante": "Atanacio",
+                "motivo": "Ánimo Reuniones "
+              },
+              {
+                "diahora": "Sábado 11 a.m. ",
+                "familia": "Esaú López ",
+                "acompanante": "Absalón Escobar ",
+                "motivo": "Ánimo predicación "
+              }
+            ],
+            "nombramientos": [],
+            "info_diahora": "Miércoles y viernes 4:00 p.m.",
+            "info_lugar": "Salón del Reino ",
+            "info_precursores": "Miércoles 4:00 p.m.",
+            "info_ancianos": "Viernes 4:00 p.m.",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [
+              {
+                "nombre": "",
+                "fecha": "2026-04-22",
+                "hora": "15:45",
+                "lugar": "Salón del Reino ",
+                "notifId": 830550998
+              },
+              {
+                "nombre": "Reunión Ancianos y SM",
+                "fecha": "2026-04-24",
+                "hora": "15:45",
+                "lugar": "Salón del Reino ",
+                "notifId": 830666425
+              }
+            ],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "Dionila",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "Albino",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "Josefina ",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "Ana",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "Flora",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "Octavio y senaido ",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "Santo domingo y Los González ",
+                "hora": "08:30",
+                "publicador": "Esaú ",
+                "actividad": "Predicación "
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "Monte Sinaí  y San Marcos",
+                "hora": "08:30",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "Monte Sinaí izq. Concepción y vista alegre",
+                "hora": "08:30",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "El Mirador ",
+                "hora": "08:30",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "",
+              "irregulares": "",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "",
+              "irregEstudio": "",
+              "sinEstudio": "",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "",
+              "precReg": "",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "",
+              "noBautizados": ""
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774828058984,
+        "nombre": "Rio verde",
+        "ciudad": "Flor de Mayo Chis ",
+        "fecha": "2025-10-07",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774828066140,
+            "fecha": "2026-03-29",
+            "semanas": 6,
+            "eb": [
+              "51",
+              "40",
+              "39",
+              "39",
+              "39",
+              "34"
+            ],
+            "rp": [
+              "47",
+              "51",
+              "48",
+              "41",
+              "40",
+              "37"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "4",
+                "informan": "26"
+              },
+              {
+                "cursos": "6",
+                "informan": "25"
+              },
+              {
+                "cursos": "6",
+                "informan": "32"
+              },
+              {
+                "cursos": "6",
+                "informan": "30"
+              },
+              {
+                "cursos": "5",
+                "informan": "29"
+              },
+              {
+                "cursos": "6",
+                "informan": "30"
+              }
+            ],
+            "fin_saldo_ini": "3191",
+            "fin": [
+              {
+                "ok": "766",
+                "cg": "347",
+                "gs": "1373"
+              },
+              {
+                "ok": "320",
+                "cg": "483",
+                "gs": "874"
+              },
+              {
+                "ok": "600",
+                "cg": "358",
+                "gs": "874"
+              },
+              {
+                "ok": "860",
+                "cg": "276",
+                "gs": "1058"
+              },
+              {
+                "ok": "328",
+                "cg": "239",
+                "gs": "525"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "",
+              "irregulares": "",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "",
+              "irregEstudio": "",
+              "sinEstudio": "",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "",
+              "precReg": "",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "",
+              "noBautizados": ""
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774828505764,
+        "nombre": "Allende",
+        "ciudad": "Allende Chis ",
+        "fecha": "2025-10-14",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774828516763,
+            "fecha": "2025-10-14",
+            "semanas": 6,
+            "eb": [
+              "53",
+              "51",
+              "52",
+              "50",
+              "55",
+              "56"
+            ],
+            "rp": [
+              "66",
+              "60",
+              "55",
+              "47",
+              "55",
+              "57"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "2",
+                "informan": "26"
+              },
+              {
+                "cursos": "8",
+                "informan": "33"
+              },
+              {
+                "cursos": "7",
+                "informan": "32"
+              },
+              {
+                "cursos": "6",
+                "informan": "31"
+              },
+              {
+                "cursos": "5",
+                "informan": "32"
+              },
+              {
+                "cursos": "2",
+                "informan": "20"
+              }
+            ],
+            "fin_saldo_ini": "",
+            "fin": [
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "43",
+              "irregulares": "",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "12",
+              "irregEstudio": "",
+              "sinEstudio": "30",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "13",
+              "precReg": "11",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "6",
+              "bautizados": "41",
+              "noBautizados": "2"
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774828878981,
+        "nombre": "Lomas del Sol",
+        "ciudad": "Las Chicharras Chis ",
+        "fecha": "2025-11-11",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774828889012,
+            "fecha": "2025-11-11",
+            "semanas": 6,
+            "eb": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "rp": [
+              "76",
+              "50",
+              "53",
+              "52",
+              "46",
+              "55"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "3",
+                "informan": "18"
+              },
+              {
+                "cursos": "10",
+                "informan": "29"
+              },
+              {
+                "cursos": "13",
+                "informan": "29"
+              },
+              {
+                "cursos": "9",
+                "informan": "29"
+              },
+              {
+                "cursos": "12",
+                "informan": "29"
+              },
+              {
+                "cursos": "5",
+                "informan": "23"
+              }
+            ],
+            "fin_saldo_ini": "4615",
+            "fin": [
+              {
+                "ok": "806",
+                "cg": "1092",
+                "gs": "1156"
+              },
+              {
+                "ok": "523",
+                "cg": "265",
+                "gs": "873"
+              },
+              {
+                "ok": "371",
+                "cg": "434",
+                "gs": "721"
+              },
+              {
+                "ok": "748",
+                "cg": "247",
+                "gs": "1098"
+              },
+              {
+                "ok": "652",
+                "cg": "266",
+                "gs": "852"
+              },
+              {
+                "ok": "545",
+                "cg": "418",
+                "gs": "745"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "32",
+              "irregulares": "6",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "12",
+              "irregEstudio": "",
+              "sinEstudio": "22",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "5",
+              "precReg": "8",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "31",
+              "noBautizados": "3"
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774829364898,
+        "nombre": "El Limón",
+        "ciudad": "Las Chicharras Chis ",
+        "fecha": "2025-11-25",
+        "puntosAgenda": "1) Conduccion Estudio de la Atalaya \n2) empezar cursos bíblicos \n3) Como dirigir cursos bíblicos ",
+        "observaciones": "1) Faltan S-12 terminados y S-13 hacerlos\n2) Solo 16 publicadores dirigen cursos\n3) Falta lista de contactos",
+        "visitas": [
+          {
+            "id": 1774829372874,
+            "fecha": "2026-03-30",
+            "semanas": 6,
+            "eb": [
+              "44",
+              "44",
+              "42",
+              "45",
+              "57",
+              "56"
+            ],
+            "rp": [
+              "47",
+              "50",
+              "48",
+              "50",
+              "63",
+              "56"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "",
+            "fin": [
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "27",
+              "irregulares": "10",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "14",
+              "irregEstudio": "",
+              "sinEstudio": "23",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "5",
+              "precReg": "9",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "2",
+              "bautizados": "33",
+              "noBautizados": "4"
+            }
+          },
+          {
+            "id": 1777402270743,
+            "fecha": "2026-04-28",
+            "semanas": 6,
+            "eb": [
+              "56",
+              "51",
+              "41",
+              "53",
+              "55",
+              "47"
+            ],
+            "rp": [
+              "56",
+              "55",
+              "48",
+              "50",
+              "52",
+              "55"
+            ],
+            "cmp_eb6": "48",
+            "cmp_rp6": "52",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "4665",
+            "fin": [
+              {
+                "ok": "793",
+                "cg": "1558",
+                "gs": "6283.5"
+              },
+              {
+                "ok": "428",
+                "cg": "2032.5",
+                "gs": "3148"
+              },
+              {
+                "ok": "622",
+                "cg": "3793",
+                "gs": "4056"
+              },
+              {
+                "ok": "655",
+                "cg": "1514",
+                "gs": "1505"
+              },
+              {
+                "ok": "385",
+                "cg": "1023.5",
+                "gs": "1567.5"
+              },
+              {
+                "ok": "327",
+                "cg": "1503",
+                "gs": "2127"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "16:00",
+            "reu_vm_pres": "Yovani Domínguez ",
+            "reu_vm_can1": "12",
+            "reu_vm_can2": "58",
+            "reu_vm_can3": "84",
+            "reu_vm_oracion": "Benjamín Fuentes Cortés ",
+            "asig_vm": [
+              {
+                "parte": "#1 Tesoros ",
+                "asignado": "Garibaldi Díaz ",
+                "tiempo": "8:10"
+              },
+              {
+                "parte": "#2 Perlas ",
+                "asignado": "Lamberto Pérez ",
+                "tiempo": "9:40"
+              },
+              {
+                "parte": "#3 Lectura ",
+                "asignado": "Andi Bravo ",
+                "tiempo": "1:56"
+              },
+              {
+                "parte": "#4 asignación ",
+                "asignado": "Maileni y Sol ",
+                "tiempo": "2:22"
+              },
+              {
+                "parte": "#5 discurso ",
+                "asignado": "Johan Verdugo ",
+                "tiempo": "4:58"
+              },
+              {
+                "parte": "#6 asignación ",
+                "asignado": "Tatiana y Rosalba",
+                "tiempo": "3:35"
+              },
+              {
+                "parte": "#7 RNVC",
+                "asignado": "Daniel Pérez ",
+                "tiempo": "15:13"
+              }
+            ],
+            "reu_rp_dia": "Sábado",
+            "reu_rp_hora": "21:00",
+            "reu_rp_pres": "Daniel Lopez ",
+            "reu_rp_can": "147",
+            "reu_rp_can2": "118",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [
+              {
+                "diahora": "miercoles 10:30 a.m.",
+                "familia": "Cifuentes Roblero",
+                "acompanante": "Daniel López ",
+                "motivo": "Predicacion y animo"
+              },
+              {
+                "diahora": "jueves 10:30 a.m.",
+                "familia": "Morales Salas",
+                "acompanante": "Garibaldi  Díaz ",
+                "motivo": ""
+              },
+              {
+                "diahora": "Viernes 10:30",
+                "familia": "Emisa Pérez ",
+                "acompanante": "Jovany Domínguez ",
+                "motivo": ""
+              }
+            ],
+            "nombramientos": [
+              {
+                "nombre": "Lamberto Pérez Pérez",
+                "familia": "Jobita, hijos mayores, ya no viven con ellos.",
+                "comentarios": ""
+              }
+            ],
+            "info_diahora": "Miércoles y viernes  3 pm",
+            "info_lugar": "Salón del Reino ",
+            "info_precursores": "Miércoles  3 pm",
+            "info_ancianos": "Viernes  3 pm",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [
+              {
+                "nombre": "visita a fam. Cifuentes ",
+                "fecha": "2026-04-29",
+                "hora": "10:30",
+                "lugar": "casa de la familia",
+                "notifId": 1480133258
+              },
+              {
+                "nombre": "Visita a la familia Morales Salas",
+                "fecha": "2026-04-30",
+                "hora": "10:20",
+                "lugar": "Casa de la familia ",
+                "notifId": 1480136027
+              },
+              {
+                "nombre": "Visita a Emisia",
+                "fecha": "2026-05-01",
+                "hora": "10:20",
+                "lugar": "CAsa de la hermana",
+                "notifId": 1480137718
+              },
+              {
+                "nombre": "Reunión de Precursores ",
+                "fecha": "2026-04-29",
+                "hora": "14:50",
+                "lugar": "Salón del Reino ",
+                "notifId": 1437430938
+              },
+              {
+                "nombre": "Reunión con Ancianos y SM",
+                "fecha": "2026-05-01",
+                "hora": "14:50",
+                "lugar": "Salón del Reino ",
+                "notifId": 1437479887
+              },
+              {
+                "nombre": "Preparación Atalaya ",
+                "fecha": "2026-04-30",
+                "hora": "19:40",
+                "lugar": "Casa",
+                "notifId": 1599290753
+              }
+            ],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "Familia Pérez Lamberto",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "Diaz Garibaldi ",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "Lopez Daniel ",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "Verdugo Marconi",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "Dominguez Yovani",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "Congregación ",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "Salón del Reino ",
+                "hora": "09:00",
+                "publicador": "Daniel López ",
+                "actividad": "Curso"
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "Salón del Reino ",
+                "hora": "",
+                "publicador": "Garibaldi Diaz",
+                "actividad": "Curso"
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "Salón del Reino ",
+                "hora": "",
+                "publicador": "Yovani Dominguez ",
+                "actividad": "Predicación "
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "Valentín Hernández ",
+                "actividad": "Predicación "
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "Salón del Reino ",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "",
+                "lugar": "Miércoles Tarde Salón del Reino ",
+                "hora": "13:50",
+                "publicador": "Marconi Verdugo ",
+                "actividad": "Curso"
+              },
+              {
+                "dia": "",
+                "lugar": "Viernes Tarde Salón del Reino ",
+                "hora": "13:50",
+                "publicador": "Joan Verdugo ",
+                "actividad": "Predicación "
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "32",
+              "irregulares": "2",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "16",
+              "irregEstudio": "1",
+              "sinEstudio": "19",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "16",
+              "precReg": "9",
+              "ancianos": "2",
+              "ministeriales": "",
+              "inactivos": "2",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "36",
+              "noBautizados": "1"
+            }
+          }
+        ],
+        "oradores": [
+          {
+            "id": 1777435771739,
+            "nombre": "Daniel Pérez ",
+            "calificacion": "C",
+            "skills": {
+              "Lectura precisa": false,
+              "Pronunciación clara": true,
+              "Fluidez": true,
+              "Uso de las pausas": false,
+              "Énfasis en las ideas principales": false,
+              "Volumen adecuado": false,
+              "Modulación": false,
+              "Entusiasmo": false,
+              "Calidez y sentimiento": true,
+              "Ademanes y expresiones faciales": false,
+              "Contacto visual": false,
+              "Naturalidad": false,
+              "Apariencia personal": true,
+              "Postura": false,
+              "Uso de medios visuales": false,
+              "Introducciones que despierten interés": false,
+              "Introducciones apropiadas para el auditorio": false,
+              "Desarrollo lógico del tema": true,
+              "Uso de argumentos convincentes": false,
+              "Uso de preguntas para razonar": false,
+              "Ilustraciones que enseñen": false,
+              "Ilustraciones tomadas de situaciones conocidas": false,
+              "Uso eficaz de la Biblia": false,
+              "Introducción apropiada de los textos": false,
+              "Lectura con el énfasis debido": false,
+              "Aplicación correcta de los textos": true,
+              "Explicación de los textos bíblicos": false,
+              "Enseñanza con ejemplos bíblicos": false,
+              "Uso de un bosquejo": false,
+              "Buena Argumentación": false,
+              "Exhortación de corazón": false,
+              "Puntos principales que se destacan": false,
+              "Conclusión que mueva a la acción": false,
+              "Claridad": true,
+              "Instrucción para el auditorio": true,
+              "Repetición para enfatizar": false,
+              "Análisis del tema": false,
+              "Vocabulario digno y variado": false,
+              "Uso de notas": false
+            }
+          },
+          {
+            "id": 1777435894705,
+            "nombre": "Garibaldi Díaz ",
+            "calificacion": "B-",
+            "skills": {
+              "Lectura precisa": false,
+              "Pronunciación clara": false,
+              "Fluidez": true,
+              "Uso de las pausas": false,
+              "Énfasis en las ideas principales": false,
+              "Volumen adecuado": false,
+              "Modulación": false,
+              "Entusiasmo": false,
+              "Calidez y sentimiento": true,
+              "Ademanes y expresiones faciales": false,
+              "Contacto visual": false,
+              "Naturalidad": false,
+              "Apariencia personal": true,
+              "Postura": false,
+              "Uso de medios visuales": false,
+              "Introducciones que despierten interés": false,
+              "Introducciones apropiadas para el auditorio": true,
+              "Desarrollo lógico del tema": false,
+              "Uso de argumentos convincentes": false,
+              "Uso de preguntas para razonar": false,
+              "Ilustraciones que enseñen": false,
+              "Ilustraciones tomadas de situaciones conocidas": false,
+              "Uso eficaz de la Biblia": false,
+              "Introducción apropiada de los textos": false,
+              "Lectura con el énfasis debido": false,
+              "Aplicación correcta de los textos": true,
+              "Explicación de los textos bíblicos": true,
+              "Enseñanza con ejemplos bíblicos": false,
+              "Uso de un bosquejo": false,
+              "Buena Argumentación": false,
+              "Exhortación de corazón": false,
+              "Puntos principales que se destacan": true,
+              "Conclusión que mueva a la acción": false,
+              "Claridad": false,
+              "Instrucción para el auditorio": false,
+              "Repetición para enfatizar": false,
+              "Análisis del tema": false,
+              "Vocabulario digno y variado": false,
+              "Uso de notas": false
+            }
+          },
+          {
+            "id": 1777436009721,
+            "nombre": "Yovani Domínguez ",
+            "calificacion": "B-",
+            "skills": {
+              "Lectura precisa": true,
+              "Pronunciación clara": false,
+              "Fluidez": true,
+              "Uso de las pausas": false,
+              "Énfasis en las ideas principales": false,
+              "Volumen adecuado": false,
+              "Modulación": false,
+              "Entusiasmo": false,
+              "Calidez y sentimiento": true,
+              "Ademanes y expresiones faciales": true,
+              "Contacto visual": true,
+              "Naturalidad": false,
+              "Apariencia personal": true,
+              "Postura": false,
+              "Uso de medios visuales": false,
+              "Introducciones que despierten interés": true,
+              "Introducciones apropiadas para el auditorio": false,
+              "Desarrollo lógico del tema": true,
+              "Uso de argumentos convincentes": false,
+              "Uso de preguntas para razonar": false,
+              "Ilustraciones que enseñen": false,
+              "Ilustraciones tomadas de situaciones conocidas": false,
+              "Uso eficaz de la Biblia": false,
+              "Introducción apropiada de los textos": false,
+              "Lectura con el énfasis debido": false,
+              "Aplicación correcta de los textos": false,
+              "Explicación de los textos bíblicos": false,
+              "Enseñanza con ejemplos bíblicos": false,
+              "Uso de un bosquejo": false,
+              "Buena Argumentación": false,
+              "Exhortación de corazón": false,
+              "Puntos principales que se destacan": false,
+              "Conclusión que mueva a la acción": false,
+              "Claridad": true,
+              "Instrucción para el auditorio": true,
+              "Repetición para enfatizar": false,
+              "Análisis del tema": false,
+              "Vocabulario digno y variado": false,
+              "Uso de notas": false
+            }
+          }
+        ]
+      },
+      {
+        "id": 1774830356862,
+        "nombre": "Bella Vista del Norte",
+        "ciudad": "Bella vista del Norte Chis ",
+        "fecha": "2025-12-16",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774830365684,
+            "fecha": "2025-12-16",
+            "semanas": 6,
+            "eb": [
+              "61",
+              "60",
+              "59",
+              "67",
+              "68",
+              "67"
+            ],
+            "rp": [
+              "62",
+              "66",
+              "63",
+              "68",
+              "73",
+              "70"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "617",
+            "fin": [
+              {
+                "ok": "575",
+                "cg": "1730",
+                "gs": "3020"
+              },
+              {
+                "ok": "510",
+                "cg": "2275",
+                "gs": "1560"
+              },
+              {
+                "ok": "930",
+                "cg": "1302",
+                "gs": "3318"
+              },
+              {
+                "ok": "770",
+                "cg": "5520",
+                "gs": "5406"
+              },
+              {
+                "ok": "965",
+                "cg": "1694",
+                "gs": "2390"
+              },
+              {
+                "ok": "900",
+                "cg": "4845",
+                "gs": "5680"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "33",
+              "irregulares": "3",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "4",
+              "irregEstudio": "",
+              "sinEstudio": "32",
+              "menosDiez": "",
+              "publNuevos": "2",
+              "precAux": "6",
+              "precReg": "8",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "1",
+              "recienBautizados": "",
+              "bautizados": "30",
+              "noBautizados": "7"
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774830753641,
+        "nombre": "San José",
+        "ciudad": "Las Chicharras Chis.",
+        "fecha": "2025-12-30",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774830758475,
+            "fecha": "2025-12-30",
+            "semanas": 6,
+            "eb": [
+              "47",
+              "4",
+              "48",
+              "45",
+              "46",
+              "47"
+            ],
+            "rp": [
+              "51",
+              "53",
+              "51",
+              "48",
+              "46",
+              "58"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "10",
+                "informan": "35"
+              },
+              {
+                "cursos": "10",
+                "informan": "35"
+              },
+              {
+                "cursos": "12",
+                "informan": "35"
+              },
+              {
+                "cursos": "3",
+                "informan": "25"
+              },
+              {
+                "cursos": "10",
+                "informan": "33"
+              },
+              {
+                "cursos": "13",
+                "informan": "33"
+              }
+            ],
+            "fin_saldo_ini": "4025",
+            "fin": [
+              {
+                "ok": "1278",
+                "cg": "961",
+                "gs": "2659"
+              },
+              {
+                "ok": "600",
+                "cg": "794",
+                "gs": "2159"
+              },
+              {
+                "ok": "1470",
+                "cg": "1477",
+                "gs": "2981"
+              },
+              {
+                "ok": "901",
+                "cg": "1114",
+                "gs": "3831"
+              },
+              {
+                "ok": "1181",
+                "cg": "6168",
+                "gs": "5841"
+              },
+              {
+                "ok": "1506",
+                "cg": "1907",
+                "gs": "2226"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "37",
+              "irregulares": "1",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "",
+              "irregEstudio": "",
+              "sinEstudio": "",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "10",
+              "precReg": "4",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "37",
+              "noBautizados": "1"
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774831247647,
+        "nombre": "Piedra Labrada",
+        "ciudad": "Piedra Labrada Chis ",
+        "fecha": "2026-01-06",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774831257087,
+            "fecha": "2026-01-06",
+            "semanas": 6,
+            "eb": [
+              "28",
+              "23",
+              "36",
+              "34",
+              "29",
+              "25"
+            ],
+            "rp": [
+              "40",
+              "39",
+              "31",
+              "32",
+              "27",
+              "32"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "10",
+            "fin": [
+              {
+                "ok": "280",
+                "cg": "0",
+                "gs": "500"
+              },
+              {
+                "ok": "210",
+                "cg": "215",
+                "gs": "500"
+              },
+              {
+                "ok": "325",
+                "cg": "160",
+                "gs": "500"
+              },
+              {
+                "ok": "220",
+                "cg": "275",
+                "gs": "500"
+              },
+              {
+                "ok": "397",
+                "cg": "425",
+                "gs": "500"
+              },
+              {
+                "ok": "188",
+                "cg": "0",
+                "gs": "500"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "25",
+              "irregulares": "2",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "4",
+              "irregEstudio": "",
+              "sinEstudio": "23",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "",
+              "precReg": "4",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "25",
+              "noBautizados": "2"
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774831744337,
+        "nombre": "Tachinula",
+        "ciudad": "El Cerecillo Chis ",
+        "fecha": "2026-01-13",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774831748997,
+            "fecha": "2026-01-13",
+            "semanas": 6,
+            "eb": [
+              "43",
+              "41",
+              "37",
+              "32",
+              "34",
+              "41"
+            ],
+            "rp": [
+              "53",
+              "47",
+              "42",
+              "38",
+              "46",
+              "48"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "3217",
+            "fin": [
+              {
+                "ok": "347",
+                "cg": "6239",
+                "gs": "5047"
+              },
+              {
+                "ok": "205",
+                "cg": "2569",
+                "gs": "1930"
+              },
+              {
+                "ok": "265",
+                "cg": "1670",
+                "gs": "4265"
+              },
+              {
+                "ok": "313",
+                "cg": "778",
+                "gs": "2196"
+              },
+              {
+                "ok": "",
+                "cg": "1147",
+                "gs": "1600"
+              },
+              {
+                "ok": "",
+                "cg": "4133",
+                "gs": "5490"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "38",
+              "irregulares": "1",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "17",
+              "irregEstudio": "1",
+              "sinEstudio": "21",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "10",
+              "precReg": "5",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "32",
+              "noBautizados": "7"
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774832129609,
+        "nombre": "Oeste",
+        "ciudad": "Tres Maravillas Chis ",
+        "fecha": "2026-01-20",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774832133821,
+            "fecha": "2026-01-20",
+            "semanas": 6,
+            "eb": [
+              "60",
+              "61",
+              "61",
+              "62",
+              "60",
+              "58"
+            ],
+            "rp": [
+              "68",
+              "71",
+              "70",
+              "69",
+              "67",
+              "60"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "18",
+                "informan": "37"
+              },
+              {
+                "cursos": "10",
+                "informan": "35"
+              },
+              {
+                "cursos": "9",
+                "informan": "38"
+              },
+              {
+                "cursos": "7",
+                "informan": "38"
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "2841",
+            "fin": [
+              {
+                "ok": "485",
+                "cg": "4011",
+                "gs": "4372"
+              },
+              {
+                "ok": "506",
+                "cg": "1121",
+                "gs": "1126"
+              },
+              {
+                "ok": "488",
+                "cg": "711",
+                "gs": "1108"
+              },
+              {
+                "ok": "455",
+                "cg": "10444",
+                "gs": "13695"
+              },
+              {
+                "ok": "500",
+                "cg": "5146",
+                "gs": "4120"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "46",
+              "irregulares": "1",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "16",
+              "irregEstudio": "1",
+              "sinEstudio": "31",
+              "menosDiez": "",
+              "publNuevos": "1",
+              "precAux": "7",
+              "precReg": "10",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "45",
+              "noBautizados": "3"
+            }
+          }
+        ],
+        "oradores": []
+      },
+      {
+        "id": 1774903105737,
+        "nombre": "Este",
+        "ciudad": "Tres Maravillas ",
+        "fecha": "2026-03-30",
+        "puntosAgenda": "",
+        "observaciones": "",
+        "visitas": [
+          {
+            "id": 1774903128705,
+            "fecha": "2026-03-30",
+            "semanas": 6,
+            "eb": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "rp": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "",
+            "fin": [
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "",
+            "reu_vm_pres": "",
+            "reu_vm_can1": "",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "",
+            "asig_vm": [],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "",
+              "irregulares": "",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "",
+              "irregEstudio": "",
+              "sinEstudio": "",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "",
+              "precReg": "",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "",
+              "noBautizados": ""
+            }
+          }
+        ],
+        "oradores": []
+      }
+    ]
+  }
+}
