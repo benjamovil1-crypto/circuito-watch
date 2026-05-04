@@ -1,7 +1,7 @@
 {
   "app": "SuperCircuitoApp",
   "version": "4.1",
-  "exportado": "2026-05-01T17:40:14.122Z",
+  "exportado": "2026-05-04T03:59:29.859Z",
   "data": {
     "congregaciones": [
       {
@@ -4509,13 +4509,6 @@
                 "hora": "14:50",
                 "lugar": "Salón del Reino ",
                 "notifId": 1437479887
-              },
-              {
-                "nombre": "Preparación Atalaya ",
-                "fecha": "2026-04-30",
-                "hora": "19:40",
-                "lugar": "Casa",
-                "notifId": 1599290753
               }
             ],
             "alimentos": [
@@ -4622,13 +4615,13 @@
               "irregEstudio": "1",
               "sinEstudio": "19",
               "menosDiez": "",
-              "publNuevos": "",
+              "publNuevos": "0",
               "precAux": "16",
               "precReg": "9",
-              "ancianos": "2",
-              "ministeriales": "",
+              "ancianos": "3",
+              "ministeriales": "0",
               "inactivos": "2",
-              "censurados": "",
+              "censurados": "1",
               "expulsados": "",
               "desasociados": "",
               "readmitidos": "",
