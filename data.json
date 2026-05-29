@@ -1,7 +1,7 @@
 {
   "app": "SuperCircuitoApp",
   "version": "4.1",
-  "exportado": "2026-05-04T03:59:29.859Z",
+  "exportado": "2026-05-29T20:40:36.114Z",
   "data": {
     "congregaciones": [
       {
@@ -3495,6 +3495,329 @@
               "bautizados": "",
               "noBautizados": ""
             }
+          },
+          {
+            "id": 1779826408328,
+            "fecha": "2026-05-26",
+            "semanas": 6,
+            "eb": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "rp": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "8",
+                "informan": "28"
+              },
+              {
+                "cursos": "7",
+                "informan": "30"
+              },
+              {
+                "cursos": "7",
+                "informan": "29"
+              },
+              {
+                "cursos": "8",
+                "informan": "29"
+              },
+              {
+                "cursos": "4",
+                "informan": "20"
+              },
+              {
+                "cursos": "6",
+                "informan": "27"
+              }
+            ],
+            "fin_saldo_ini": "3064",
+            "fin": [
+              {
+                "ok": "400",
+                "cg": "408",
+                "gs": "450"
+              },
+              {
+                "ok": "122",
+                "cg": "188",
+                "gs": "222"
+              },
+              {
+                "ok": "300",
+                "cg": "160",
+                "gs": "610"
+              },
+              {
+                "ok": "435",
+                "cg": "395",
+                "gs": "2154"
+              },
+              {
+                "ok": "580",
+                "cg": "465",
+                "gs": "918"
+              },
+              {
+                "ok": "300",
+                "cg": "289",
+                "gs": "318"
+              },
+              {
+                "ok": "350",
+                "cg": "305",
+                "gs": "1476"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "15:00",
+            "reu_vm_pres": "Elder Perez",
+            "reu_vm_can1": "24",
+            "reu_vm_can2": "80",
+            "reu_vm_can3": "84",
+            "reu_vm_oracion": "Benjamín Fuentes Cortés ",
+            "asig_vm": [
+              {
+                "parte": "# 1  Tesoros",
+                "asignado": "Daricel López ",
+                "tiempo": "9:50"
+              },
+              {
+                "parte": "#2 Perlas ",
+                "asignado": "Francisco Velizquez",
+                "tiempo": "9:35"
+              },
+              {
+                "parte": "# 3 lectura ",
+                "asignado": "Urias Salas",
+                "tiempo": "2:08"
+              },
+              {
+                "parte": "#4 ",
+                "asignado": "Esperanza R/ Blanca Z",
+                "tiempo": "2:39"
+              },
+              {
+                "parte": "#5",
+                "asignado": "Belen y darminda",
+                "tiempo": "1:38"
+              },
+              {
+                "parte": "#6",
+                "asignado": "Daysi y Sara",
+                "tiempo": "2:40"
+              },
+              {
+                "parte": "#7",
+                "asignado": "Alejandro y yeraldim",
+                "tiempo": "3:43"
+              },
+              {
+                "parte": "#8",
+                "asignado": "Ever Velazquez",
+                "tiempo": "14:32"
+              }
+            ],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "09:00",
+            "reu_rp_pres": "Daricel López ",
+            "reu_rp_can": "147",
+            "reu_rp_can2": "118",
+            "reu_rp_oracion": "Benjamín Fuoentes Cortés ",
+            "asig_rp": [
+              {
+                "parte": "",
+                "asignado": "",
+                "tiempo": ""
+              }
+            ],
+            "pastoreo": [
+              {
+                "diahora": "Sábado 11:00 a.m.",
+                "familia": "Leonardo V.",
+                "acompanante": "Ever Velázquez ",
+                "motivo": "Animar a predicar con el grupo"
+              },
+              {
+                "diahora": "Sábado 10:00 a.m.",
+                "familia": "Guadalupe V.",
+                "acompanante": "Rubisel V.",
+                "motivo": "Falta a predicación y a reuniones "
+              },
+              {
+                "diahora": "Miércoles 2:00 p.m.",
+                "familia": "Ranulfo V.",
+                "acompanante": "Elder P.",
+                "motivo": "Encomio predicación, esposa enferma"
+              },
+              {
+                "diahora": "",
+                "familia": "",
+                "acompanante": "",
+                "motivo": ""
+              }
+            ],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "Salon del Reino ",
+            "info_precursores": "Miércoles 3:00 p.m.",
+            "info_ancianos": "Viernes 3:00 p.m.",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "Leonardo V.",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "Guadalupe V.",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "Ranulfo V.",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "Doris R.",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "Dagoberto R.",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "Lindoro V.",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "Lázaro Cárdenas ",
+                "hora": "09:00",
+                "publicador": "Daricel",
+                "actividad": "Predicación "
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "Lázaro Cárdenas ",
+                "hora": "09:00",
+                "publicador": "Elder Pérez ",
+                "actividad": "Predicación "
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "Lázaro Cárdenas ",
+                "hora": "09:00",
+                "publicador": "Rubicel Velázquez ",
+                "actividad": "Predicación "
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "Flor de Mayo ",
+                "hora": "09:00",
+                "publicador": "Ever Velázquez ",
+                "actividad": "Predicación "
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "Evaluar los requisitos de Neyman Velázquez.  Hijos no progresan, no bautizados y no publicadores.  ",
+            "analisis": {
+              "regulares": "32",
+              "irregulares": "2",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "13",
+              "irregEstudio": "",
+              "sinEstudio": "21",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "8",
+              "precReg": "6",
+              "ancianos": "4",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "1",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "1",
+              "bautizados": "33",
+              "noBautizados": "1"
+            }
           }
         ],
         "oradores": []
@@ -3768,7 +4091,7 @@
         "nombre": "Lomas del Sol",
         "ciudad": "Las Chicharras Chis ",
         "fecha": "2025-11-11",
-        "puntosAgenda": "",
+        "puntosAgenda": "1 )  Iniciar cursos bíblicos... \n       Pocos publicadores dirigen cursos.",
         "observaciones": "",
         "visitas": [
           {
@@ -4014,6 +4337,307 @@
               "reactivados": "",
               "recienBautizados": "",
               "bautizados": "31",
+              "noBautizados": "3"
+            }
+          },
+          {
+            "id": 1779161204184,
+            "fecha": "2026-05-18",
+            "semanas": 6,
+            "eb": [
+              "",
+              "48",
+              "49",
+              "47",
+              "47",
+              "49"
+            ],
+            "rp": [
+              "",
+              "58",
+              "54",
+              "47",
+              "56",
+              "51"
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "25",
+                "informan": "4"
+              },
+              {
+                "cursos": "29",
+                "informan": "8"
+              },
+              {
+                "cursos": "29",
+                "informan": "11"
+              },
+              {
+                "cursos": "31",
+                "informan": "13"
+              },
+              {
+                "cursos": "27",
+                "informan": "2"
+              },
+              {
+                "cursos": "28",
+                "informan": "3"
+              }
+            ],
+            "fin_saldo_ini": "1104",
+            "fin": [
+              {
+                "ok": "198.5",
+                "cg": "1170",
+                "gs": "966.5"
+              },
+              {
+                "ok": "304",
+                "cg": "671.5",
+                "gs": "1072"
+              },
+              {
+                "ok": "539",
+                "cg": "1411.5",
+                "gs": "1307"
+              },
+              {
+                "ok": "440",
+                "cg": "720",
+                "gs": "1208"
+              },
+              {
+                "ok": "429",
+                "cg": "715.5",
+                "gs": "1197"
+              },
+              {
+                "ok": "406",
+                "cg": "289.5",
+                "gs": "1174"
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "15:00",
+            "reu_vm_pres": "Roldan Roblero ",
+            "reu_vm_can1": "44",
+            "reu_vm_can2": "115",
+            "reu_vm_can3": "",
+            "reu_vm_oracion": "Benjamín Fuentes Cortés ",
+            "asig_vm": [
+              {
+                "parte": "#1 Tesoros ",
+                "asignado": "Yoni Roblero ",
+                "tiempo": "8:41"
+              },
+              {
+                "parte": "#2 Perlas ",
+                "asignado": "Benito Bravo ",
+                "tiempo": "9:27"
+              },
+              {
+                "parte": "#3 Lectura ",
+                "asignado": "Oran Verdugo ",
+                "tiempo": "3:36"
+              },
+              {
+                "parte": "#4 empiece conversaciones ",
+                "asignado": "Ines y Dayli",
+                "tiempo": "2:04"
+              },
+              {
+                "parte": "#5 Haga revisitas ",
+                "asignado": "Yesenia y Yexa",
+                "tiempo": "2:34"
+              },
+              {
+                "parte": "#6  Haga discípulos ",
+                "asignado": "Loida y Mariana",
+                "tiempo": "3:35"
+              },
+              {
+                "parte": "#7 Estemos preparados para situaciones de emergencia ",
+                "asignado": "Eliver Pérez ",
+                "tiempo": "15:07"
+              }
+            ],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "09:00",
+            "reu_rp_pres": "Eliver Pérez ",
+            "reu_rp_can": "147",
+            "reu_rp_can2": "118",
+            "reu_rp_oracion": "",
+            "asig_rp": [
+              {
+                "parte": "Estudio de la Atalaya ",
+                "asignado": "David Raúl Pérez ",
+                "tiempo": ""
+              }
+            ],
+            "pastoreo": [
+              {
+                "diahora": "Miércoles 11:00 a.m.",
+                "familia": "Victor Hernández ",
+                "acompanante": "Roldan Roblero ",
+                "motivo": "Ánimo "
+              },
+              {
+                "diahora": "Jueves 11:00 a.m.",
+                "familia": "Iver Ventura ",
+                "acompanante": "Eliver Pérez ",
+                "motivo": "Ánimo "
+              }
+            ],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "Salón del Reino ",
+            "info_precursores": "Miércoles 3 p.m.",
+            "info_ancianos": "Viernes 3 p.m.",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "Oran Verdugo ",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "David Raul Pérez ",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "Lucinda Sánchez ",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "Benito Bravo ",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "Dieseli Pérez ",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "Congregación ",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "Salón del Reino ",
+                "hora": "09:00",
+                "publicador": "Victor Hernández ",
+                "actividad": "Exhibidor"
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "Salón del Reino ",
+                "hora": "09:00",
+                "publicador": "Roldan Roblero ",
+                "actividad": "Predicación "
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "Salón del Reino ",
+                "hora": "09:00",
+                "publicador": "Leopoldo Pérez ",
+                "actividad": "Exhibidor"
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "Salón del Reino ",
+                "hora": "09:00",
+                "publicador": "Benito Bravo ",
+                "actividad": "Predicación "
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "30",
+              "irregulares": "1",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "12",
+              "irregEstudio": "1",
+              "sinEstudio": "17",
+              "menosDiez": "",
+              "publNuevos": "0",
+              "precAux": "4",
+              "precReg": "8",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "28",
               "noBautizados": "3"
             }
           }
@@ -4478,23 +5102,23 @@
               {
                 "nombre": "visita a fam. Cifuentes ",
                 "fecha": "2026-04-29",
-                "hora": "10:30",
+                "hora": "10:20",
                 "lugar": "casa de la familia",
-                "notifId": 1480133258
+                "notifId": 1437299161
               },
               {
                 "nombre": "Visita a la familia Morales Salas",
                 "fecha": "2026-04-30",
                 "hora": "10:20",
                 "lugar": "Casa de la familia ",
-                "notifId": 1480136027
+                "notifId": 1437334850
               },
               {
                 "nombre": "Visita a Emisia",
                 "fecha": "2026-05-01",
                 "hora": "10:20",
                 "lugar": "CAsa de la hermana",
-                "notifId": 1480137718
+                "notifId": 1437372701
               },
               {
                 "nombre": "Reunión de Precursores ",
@@ -4615,13 +5239,13 @@
               "irregEstudio": "1",
               "sinEstudio": "19",
               "menosDiez": "",
-              "publNuevos": "0",
+              "publNuevos": "",
               "precAux": "16",
               "precReg": "9",
-              "ancianos": "3",
-              "ministeriales": "0",
+              "ancianos": "2",
+              "ministeriales": "",
               "inactivos": "2",
-              "censurados": "1",
+              "censurados": "",
               "expulsados": "",
               "desasociados": "",
               "readmitidos": "",
