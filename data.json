@@ -1,7 +1,7 @@
 {
   "app": "SuperCircuitoApp",
   "version": "4.1",
-  "exportado": "2026-05-29T20:40:36.114Z",
+  "exportado": "2026-06-03T03:51:10.391Z",
   "data": {
     "congregaciones": [
       {
@@ -3501,23 +3501,23 @@
             "fecha": "2026-05-26",
             "semanas": 6,
             "eb": [
-              "",
-              "",
-              "",
-              "",
-              "",
+              "42",
+              "44",
+              "54",
+              "53",
+              "58",
               ""
             ],
             "rp": [
-              "",
-              "",
-              "",
-              "",
-              "",
+              "45",
+              "44",
+              "56",
+              "42",
+              "47",
               ""
             ],
-            "cmp_eb6": "",
-            "cmp_rp6": "",
+            "cmp_eb6": "40",
+            "cmp_rp6": "44",
             "cmp_eb1": "",
             "cmp_rp1": "",
             "act": [
@@ -3671,7 +3671,7 @@
             "reu_rp_pres": "Daricel López ",
             "reu_rp_can": "147",
             "reu_rp_can2": "118",
-            "reu_rp_oracion": "Benjamín Fuoentes Cortés ",
+            "reu_rp_oracion": "Benjamín Fuentes Cortés ",
             "asig_rp": [
               {
                 "parte": "",
@@ -4081,6 +4081,293 @@
               "recienBautizados": "6",
               "bautizados": "41",
               "noBautizados": "2"
+            }
+          },
+          {
+            "id": 1780437545208,
+            "fecha": "2026-06-02",
+            "semanas": 6,
+            "eb": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "rp": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "cmp_eb6": "",
+            "cmp_rp6": "",
+            "cmp_eb1": "",
+            "cmp_rp1": "",
+            "act": [
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              },
+              {
+                "cursos": "",
+                "informan": ""
+              }
+            ],
+            "fin_saldo_ini": "",
+            "fin": [
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              },
+              {
+                "ok": "",
+                "cg": "",
+                "gs": ""
+              }
+            ],
+            "mant_saldo_ini": "",
+            "mant": [
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              },
+              {
+                "ing": "",
+                "gs": "",
+                "desc": ""
+              }
+            ],
+            "reu_vm_dia": "Martes",
+            "reu_vm_hora": "16:00",
+            "reu_vm_pres": "Arbey ",
+            "reu_vm_can1": "84",
+            "reu_vm_can2": "",
+            "reu_vm_can3": "133",
+            "reu_vm_oracion": "Benjamín Fuentes ",
+            "asig_vm": [
+              {
+                "parte": "#1 Tesoros",
+                "asignado": "Janier",
+                "tiempo": "11:40"
+              },
+              {
+                "parte": "# 2 Perlas",
+                "asignado": "Samuel Pérez",
+                "tiempo": "8:28"
+              },
+              {
+                "parte": "#3 lectura ",
+                "asignado": "Darinel Pérez",
+                "tiempo": "2:59"
+              },
+              {
+                "parte": "#4 ",
+                "asignado": "Ashley/Elsi",
+                "tiempo": "2:54"
+              },
+              {
+                "parte": "#5",
+                "asignado": "Mayreni/ Nayrebi",
+                "tiempo": "3:14"
+              },
+              {
+                "parte": "#6",
+                "asignado": "Yasmín/ Amabeyli",
+                "tiempo": "3:25"
+              },
+              {
+                "parte": "#7 ",
+                "asignado": "Limbar Pérez ",
+                "tiempo": "6:10"
+              },
+              {
+                "parte": "8# ",
+                "asignado": "Samuel ",
+                "tiempo": "9:50"
+              }
+            ],
+            "reu_rp_dia": "Domingo",
+            "reu_rp_hora": "09:00",
+            "reu_rp_pres": "",
+            "reu_rp_can": "",
+            "reu_rp_can2": "",
+            "reu_rp_oracion": "",
+            "asig_rp": [],
+            "pastoreo": [],
+            "nombramientos": [],
+            "info_diahora": "",
+            "info_lugar": "",
+            "info_precursores": "",
+            "info_ancianos": "",
+            "show_des": false,
+            "show_cen": false,
+            "act_prog": [],
+            "alimentos": [
+              {
+                "dia": "Martes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Miércoles",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Jueves",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Viernes",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Sábado",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              },
+              {
+                "dia": "Domingo",
+                "desayuno": "",
+                "comida": "",
+                "cena": ""
+              }
+            ],
+            "campo": [
+              {
+                "dia": "Miércoles",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Jueves",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Viernes",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Sábado",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              },
+              {
+                "dia": "Domingo",
+                "lugar": "",
+                "hora": "",
+                "publicador": "",
+                "actividad": ""
+              }
+            ],
+            "hosp_nombre": "",
+            "hosp_dir": "",
+            "hosp_tel": "",
+            "informe": "",
+            "adicionales": "",
+            "analisis": {
+              "regulares": "",
+              "irregulares": "",
+              "conRevisita": "",
+              "irregRevisita": "",
+              "sinRevisita": "",
+              "conEstudio": "",
+              "irregEstudio": "",
+              "sinEstudio": "",
+              "menosDiez": "",
+              "publNuevos": "",
+              "precAux": "",
+              "precReg": "",
+              "ancianos": "",
+              "ministeriales": "",
+              "inactivos": "",
+              "censurados": "",
+              "expulsados": "",
+              "desasociados": "",
+              "readmitidos": "",
+              "reactivados": "",
+              "recienBautizados": "",
+              "bautizados": "",
+              "noBautizados": ""
             }
           }
         ],
